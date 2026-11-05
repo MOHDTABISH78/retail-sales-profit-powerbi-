@@ -1,0 +1,8 @@
+Retail Sales Project 1 — Mohammed Tabish
+Synthetic line items: 19,380
+Unique orders: 12,400
+Net Revenue: INR 36,856,050.70
+Profit: INR 12,565,825.44
+Margin: 34.09%
+Open dashboard/dashboard_preview.html in Chrome or Edge.
+See README.md and docs/powerbi_setup.md for Power BI guidance.

@@ -1,0 +1,1901 @@
+﻿customer_id,region,segment
+C00001,East,Consumer
+C00002,North,Consumer
+C00003,South,Small Business
+C00004,West,Consumer
+C00005,North,Consumer
+C00006,South,Consumer
+C00007,South,Consumer
+C00008,West,Consumer
+C00009,East,Corporate
+C00010,North,Consumer
+C00011,West,Corporate
+C00012,South,Consumer
+C00013,East,Small Business
+C00014,West,Corporate
+C00015,East,Corporate
+C00016,North,Corporate
+C00017,North,Consumer
+C00018,North,Consumer
+C00019,South,Consumer
+C00020,South,Consumer
+C00021,North,Corporate
+C00022,East,Corporate
+C00023,North,Consumer
+C00024,North,Consumer
+C00025,South,Consumer
+C00026,North,Consumer
+C00027,North,Consumer
+C00028,South,Consumer
+C00029,South,Corporate
+C00030,South,Consumer
+C00031,East,Consumer
+C00032,South,Consumer
+C00033,West,Consumer
+C00034,West,Consumer
+C00035,East,Corporate
+C00036,South,Corporate
+C00037,South,Corporate
+C00038,West,Small Business
+C00039,North,Consumer
+C00040,South,Consumer
+C00041,East,Consumer
+C00042,South,Consumer
+C00043,South,Consumer
+C00044,West,Corporate
+C00045,South,Consumer
+C00046,South,Corporate
+C00047,North,Consumer
+C00048,East,Corporate
+C00049,East,Consumer
+C00050,North,Consumer
+C00051,East,Corporate
+C00052,West,Consumer
+C00053,West,Consumer
+C00054,East,Consumer
+C00055,East,Corporate
+C00056,East,Small Business
+C00057,East,Consumer
+C00058,West,Consumer
+C00059,West,Consumer
+C00060,South,Small Business
+C00061,West,Small Business
+C00062,East,Consumer
+C00063,South,Corporate
+C00064,West,Consumer
+C00065,West,Consumer
+C00066,South,Consumer
+C00067,North,Consumer
+C00068,West,Consumer
+C00069,North,Consumer
+C00070,North,Corporate
+C00071,East,Small Business
+C00072,South,Consumer
+C00073,South,Consumer
+C00074,North,Consumer
+C00075,South,Corporate
+C00076,South,Small Business
+C00077,West,Corporate
+C00078,South,Consumer
+C00079,West,Corporate
+C00080,South,Consumer
+C00081,North,Consumer
+C00082,West,Consumer
+C00083,East,Consumer
+C00084,West,Consumer
+C00085,South,Small Business
+C00086,West,Consumer
+C00087,South,Consumer
+C00088,North,Consumer
+C00089,East,Consumer
+C00090,North,Consumer
+C00091,East,Corporate
+C00092,South,Small Business
+C00093,East,Consumer
+C00094,South,Consumer
+C00095,West,Corporate
+C00096,West,Consumer
+C00097,South,Consumer
+C00098,West,Consumer
+C00099,West,Corporate
+C00100,North,Corporate
+C00101,South,Corporate
+C00102,East,Consumer
+C00103,West,Consumer
+C00104,South,Consumer
+C00105,East,Corporate
+C00106,South,Consumer
+C00107,East,Consumer
+C00108,West,Corporate
+C00109,North,Corporate
+C00110,North,Corporate
+C00111,South,Corporate
+C00112,East,Consumer
+C00113,South,Consumer
+C00114,West,Corporate
+C00115,North,Consumer
+C00116,South,Consumer
+C00117,West,Consumer
+C00118,South,Consumer
+C00119,West,Consumer
+C00120,North,Consumer
+C00121,West,Consumer
+C00122,West,Consumer
+C00123,West,Consumer
+C00124,South,Consumer
+C00125,East,Consumer
+C00126,West,Consumer
+C00127,West,Consumer
+C00128,North,Consumer
+C00129,North,Consumer
+C00130,South,Consumer
+C00131,South,Consumer
+C00132,East,Corporate
+C00133,South,Corporate
+C00134,East,Small Business
+C00135,South,Consumer
+C00136,West,Consumer
+C00137,East,Consumer
+C00138,North,Small Business
+C00139,East,Small Business
+C00140,West,Consumer
+C00141,West,Consumer
+C00142,West,Consumer
+C00143,North,Corporate
+C00144,South,Consumer
+C00145,South,Consumer
+C00146,West,Consumer
+C00147,South,Small Business
+C00148,North,Consumer
+C00149,South,Consumer
+C00150,South,Consumer
+C00151,East,Consumer
+C00152,North,Consumer
+C00153,South,Consumer
+C00154,North,Small Business
+C00155,South,Consumer
+C00156,East,Corporate
+C00157,South,Corporate
+C00158,East,Small Business
+C00159,North,Consumer
+C00160,South,Consumer
+C00161,East,Small Business
+C00162,North,Small Business
+C00163,East,Consumer
+C00164,South,Consumer
+C00165,North,Consumer
+C00166,South,Consumer
+C00167,South,Corporate
+C00168,East,Corporate
+C00169,North,Small Business
+C00170,South,Consumer
+C00171,North,Consumer
+C00172,West,Consumer
+C00173,East,Consumer
+C00174,West,Consumer
+C00175,North,Corporate
+C00176,East,Corporate
+C00177,West,Consumer
+C00178,South,Corporate
+C00179,West,Consumer
+C00180,West,Consumer
+C00181,East,Consumer
+C00182,East,Consumer
+C00183,South,Consumer
+C00184,North,Corporate
+C00185,West,Consumer
+C00186,East,Small Business
+C00187,North,Consumer
+C00188,North,Small Business
+C00189,East,Corporate
+C00190,South,Consumer
+C00191,South,Small Business
+C00192,West,Consumer
+C00193,South,Consumer
+C00194,West,Consumer
+C00195,South,Consumer
+C00196,West,Small Business
+C00197,North,Small Business
+C00198,South,Consumer
+C00199,North,Small Business
+C00200,South,Corporate
+C00201,North,Consumer
+C00202,West,Corporate
+C00203,South,Consumer
+C00204,South,Consumer
+C00205,East,Consumer
+C00206,East,Consumer
+C00207,West,Consumer
+C00208,South,Consumer
+C00209,South,Consumer
+C00210,East,Corporate
+C00211,East,Consumer
+C00212,South,Consumer
+C00213,South,Consumer
+C00214,West,Small Business
+C00215,East,Consumer
+C00216,North,Consumer
+C00217,North,Small Business
+C00218,North,Corporate
+C00219,West,Consumer
+C00220,East,Consumer
+C00221,North,Consumer
+C00222,West,Consumer
+C00223,West,Corporate
+C00224,North,Consumer
+C00225,West,Consumer
+C00226,North,Small Business
+C00227,North,Corporate
+C00228,South,Consumer
+C00229,South,Small Business
+C00230,East,Consumer
+C00231,South,Small Business
+C00232,South,Consumer
+C00233,North,Consumer
+C00234,West,Consumer
+C00235,West,Consumer
+C00236,South,Corporate
+C00237,North,Consumer
+C00238,West,Consumer
+C00239,West,Consumer
+C00240,North,Consumer
+C00241,West,Corporate
+C00242,North,Corporate
+C00243,North,Consumer
+C00244,South,Consumer
+C00245,West,Consumer
+C00246,West,Consumer
+C00247,East,Consumer
+C00248,East,Consumer
+C00249,North,Consumer
+C00250,North,Consumer
+C00251,West,Consumer
+C00252,East,Consumer
+C00253,East,Corporate
+C00254,East,Small Business
+C00255,West,Consumer
+C00256,East,Consumer
+C00257,East,Corporate
+C00258,West,Consumer
+C00259,West,Small Business
+C00260,South,Small Business
+C00261,South,Corporate
+C00262,East,Consumer
+C00263,East,Consumer
+C00264,North,Corporate
+C00265,West,Corporate
+C00266,South,Consumer
+C00267,South,Consumer
+C00268,South,Consumer
+C00269,North,Small Business
+C00270,East,Consumer
+C00271,West,Consumer
+C00272,East,Consumer
+C00273,East,Consumer
+C00274,North,Small Business
+C00275,South,Corporate
+C00276,South,Consumer
+C00277,West,Consumer
+C00278,East,Consumer
+C00279,North,Corporate
+C00280,West,Small Business
+C00281,West,Small Business
+C00282,East,Small Business
+C00283,West,Corporate
+C00284,South,Consumer
+C00285,East,Consumer
+C00286,West,Consumer
+C00287,East,Corporate
+C00288,West,Corporate
+C00289,West,Corporate
+C00290,South,Consumer
+C00291,West,Consumer
+C00292,West,Small Business
+C00293,East,Corporate
+C00294,South,Corporate
+C00295,East,Corporate
+C00296,West,Consumer
+C00297,West,Small Business
+C00298,South,Consumer
+C00299,East,Consumer
+C00300,North,Consumer
+C00301,North,Consumer
+C00302,South,Consumer
+C00303,East,Consumer
+C00304,North,Corporate
+C00305,South,Small Business
+C00306,West,Corporate
+C00307,South,Consumer
+C00308,North,Consumer
+C00309,South,Consumer
+C00310,East,Consumer
+C00311,West,Consumer
+C00312,West,Consumer
+C00313,West,Consumer
+C00314,South,Corporate
+C00315,East,Consumer
+C00316,North,Corporate
+C00317,East,Corporate
+C00318,East,Consumer
+C00319,West,Consumer
+C00320,East,Small Business
+C00321,East,Corporate
+C00322,West,Corporate
+C00323,West,Consumer
+C00324,West,Consumer
+C00325,West,Consumer
+C00326,North,Consumer
+C00327,South,Consumer
+C00328,South,Consumer
+C00329,West,Consumer
+C00330,South,Consumer
+C00331,North,Consumer
+C00332,North,Small Business
+C00333,North,Consumer
+C00334,South,Consumer
+C00335,South,Consumer
+C00336,East,Consumer
+C00337,East,Consumer
+C00338,West,Consumer
+C00339,North,Consumer
+C00340,South,Consumer
+C00341,North,Consumer
+C00342,South,Consumer
+C00343,North,Consumer
+C00344,West,Corporate
+C00345,West,Small Business
+C00346,East,Small Business
+C00347,North,Consumer
+C00348,North,Consumer
+C00349,West,Corporate
+C00350,West,Consumer
+C00351,West,Corporate
+C00352,West,Small Business
+C00353,South,Consumer
+C00354,East,Consumer
+C00355,East,Consumer
+C00356,South,Consumer
+C00357,South,Consumer
+C00358,North,Corporate
+C00359,North,Corporate
+C00360,South,Consumer
+C00361,East,Consumer
+C00362,North,Consumer
+C00363,North,Small Business
+C00364,South,Consumer
+C00365,South,Corporate
+C00366,North,Consumer
+C00367,North,Consumer
+C00368,North,Consumer
+C00369,South,Corporate
+C00370,South,Consumer
+C00371,West,Corporate
+C00372,West,Small Business
+C00373,North,Corporate
+C00374,East,Consumer
+C00375,South,Consumer
+C00376,North,Small Business
+C00377,South,Consumer
+C00378,South,Corporate
+C00379,South,Small Business
+C00380,South,Consumer
+C00381,South,Small Business
+C00382,South,Consumer
+C00383,South,Consumer
+C00384,South,Consumer
+C00385,East,Consumer
+C00386,West,Consumer
+C00387,South,Consumer
+C00388,East,Small Business
+C00389,South,Consumer
+C00390,South,Consumer
+C00391,North,Small Business
+C00392,West,Consumer
+C00393,West,Consumer
+C00394,East,Consumer
+C00395,West,Corporate
+C00396,West,Corporate
+C00397,West,Small Business
+C00398,West,Consumer
+C00399,West,Consumer
+C00400,North,Consumer
+C00401,North,Consumer
+C00402,North,Corporate
+C00403,North,Consumer
+C00404,North,Consumer
+C00405,South,Consumer
+C00406,North,Corporate
+C00407,West,Consumer
+C00408,West,Consumer
+C00409,South,Consumer
+C00410,West,Consumer
+C00411,North,Corporate
+C00412,West,Consumer
+C00413,East,Small Business
+C00414,South,Consumer
+C00415,South,Consumer
+C00416,East,Corporate
+C00417,North,Corporate
+C00418,South,Consumer
+C00419,West,Corporate
+C00420,West,Consumer
+C00421,North,Small Business
+C00422,South,Consumer
+C00423,North,Corporate
+C00424,North,Consumer
+C00425,West,Corporate
+C00426,West,Consumer
+C00427,South,Corporate
+C00428,South,Small Business
+C00429,South,Consumer
+C00430,North,Consumer
+C00431,East,Consumer
+C00432,East,Consumer
+C00433,West,Corporate
+C00434,West,Consumer
+C00435,East,Consumer
+C00436,East,Consumer
+C00437,South,Consumer
+C00438,East,Consumer
+C00439,West,Consumer
+C00440,East,Consumer
+C00441,West,Consumer
+C00442,West,Corporate
+C00443,South,Consumer
+C00444,East,Consumer
+C00445,East,Consumer
+C00446,East,Consumer
+C00447,East,Consumer
+C00448,South,Corporate
+C00449,West,Small Business
+C00450,South,Consumer
+C00451,West,Consumer
+C00452,East,Consumer
+C00453,West,Consumer
+C00454,South,Consumer
+C00455,North,Consumer
+C00456,East,Consumer
+C00457,South,Consumer
+C00458,East,Consumer
+C00459,East,Small Business
+C00460,West,Corporate
+C00461,South,Consumer
+C00462,South,Consumer
+C00463,South,Corporate
+C00464,West,Consumer
+C00465,North,Consumer
+C00466,South,Consumer
+C00467,West,Small Business
+C00468,South,Consumer
+C00469,North,Small Business
+C00470,East,Small Business
+C00471,North,Small Business
+C00472,South,Corporate
+C00473,South,Corporate
+C00474,South,Corporate
+C00475,South,Consumer
+C00476,North,Corporate
+C00477,East,Corporate
+C00478,North,Consumer
+C00479,South,Corporate
+C00480,South,Consumer
+C00481,North,Consumer
+C00482,South,Consumer
+C00483,North,Consumer
+C00484,South,Consumer
+C00485,South,Small Business
+C00486,South,Consumer
+C00487,North,Consumer
+C00488,South,Corporate
+C00489,North,Consumer
+C00490,North,Consumer
+C00491,North,Consumer
+C00492,West,Consumer
+C00493,West,Consumer
+C00494,North,Consumer
+C00495,East,Consumer
+C00496,North,Corporate
+C00497,West,Consumer
+C00498,West,Small Business
+C00499,West,Consumer
+C00500,West,Consumer
+C00501,West,Small Business
+C00502,South,Consumer
+C00503,South,Consumer
+C00504,South,Small Business
+C00505,East,Consumer
+C00506,South,Consumer
+C00507,South,Consumer
+C00508,South,Consumer
+C00509,North,Corporate
+C00510,South,Consumer
+C00511,North,Consumer
+C00512,South,Consumer
+C00513,South,Small Business
+C00514,West,Consumer
+C00515,East,Consumer
+C00516,West,Small Business
+C00517,North,Corporate
+C00518,East,Corporate
+C00519,East,Consumer
+C00520,South,Consumer
+C00521,North,Consumer
+C00522,South,Small Business
+C00523,West,Consumer
+C00524,North,Consumer
+C00525,North,Consumer
+C00526,West,Corporate
+C00527,East,Corporate
+C00528,East,Corporate
+C00529,South,Consumer
+C00530,South,Consumer
+C00531,West,Consumer
+C00532,West,Consumer
+C00533,South,Consumer
+C00534,North,Consumer
+C00535,South,Corporate
+C00536,East,Corporate
+C00537,North,Consumer
+C00538,South,Consumer
+C00539,South,Consumer
+C00540,North,Small Business
+C00541,West,Consumer
+C00542,West,Consumer
+C00543,West,Consumer
+C00544,North,Corporate
+C00545,North,Corporate
+C00546,North,Consumer
+C00547,West,Consumer
+C00548,South,Consumer
+C00549,East,Consumer
+C00550,East,Consumer
+C00551,South,Consumer
+C00552,East,Consumer
+C00553,West,Consumer
+C00554,South,Corporate
+C00555,West,Consumer
+C00556,West,Corporate
+C00557,West,Consumer
+C00558,North,Consumer
+C00559,South,Corporate
+C00560,North,Consumer
+C00561,West,Consumer
+C00562,West,Consumer
+C00563,West,Consumer
+C00564,North,Small Business
+C00565,North,Consumer
+C00566,West,Consumer
+C00567,East,Small Business
+C00568,East,Consumer
+C00569,South,Corporate
+C00570,North,Consumer
+C00571,South,Corporate
+C00572,East,Consumer
+C00573,North,Corporate
+C00574,East,Small Business
+C00575,South,Consumer
+C00576,East,Consumer
+C00577,South,Small Business
+C00578,North,Consumer
+C00579,East,Corporate
+C00580,West,Small Business
+C00581,North,Small Business
+C00582,West,Corporate
+C00583,North,Consumer
+C00584,East,Consumer
+C00585,West,Small Business
+C00586,North,Consumer
+C00587,North,Consumer
+C00588,North,Consumer
+C00589,South,Small Business
+C00590,East,Consumer
+C00591,South,Consumer
+C00592,East,Corporate
+C00593,South,Consumer
+C00594,West,Corporate
+C00595,South,Consumer
+C00596,North,Consumer
+C00597,South,Consumer
+C00598,South,Consumer
+C00599,East,Corporate
+C00600,North,Consumer
+C00601,South,Consumer
+C00602,East,Corporate
+C00603,East,Corporate
+C00604,West,Consumer
+C00605,East,Corporate
+C00606,South,Consumer
+C00607,East,Corporate
+C00608,East,Corporate
+C00609,South,Consumer
+C00610,West,Small Business
+C00611,South,Consumer
+C00612,West,Consumer
+C00613,East,Corporate
+C00614,East,Consumer
+C00615,East,Consumer
+C00616,South,Small Business
+C00617,North,Consumer
+C00618,East,Corporate
+C00619,West,Small Business
+C00620,South,Consumer
+C00621,North,Consumer
+C00622,North,Consumer
+C00623,North,Corporate
+C00624,West,Consumer
+C00625,North,Small Business
+C00626,West,Small Business
+C00627,West,Small Business
+C00628,West,Corporate
+C00629,South,Consumer
+C00630,West,Consumer
+C00631,North,Consumer
+C00632,North,Corporate
+C00633,South,Consumer
+C00634,East,Consumer
+C00635,North,Corporate
+C00636,North,Corporate
+C00637,North,Consumer
+C00638,South,Corporate
+C00639,North,Consumer
+C00640,East,Corporate
+C00641,North,Small Business
+C00642,North,Consumer
+C00643,South,Consumer
+C00644,South,Consumer
+C00645,West,Consumer
+C00646,North,Corporate
+C00647,South,Consumer
+C00648,South,Consumer
+C00649,South,Consumer
+C00650,West,Consumer
+C00651,North,Consumer
+C00652,North,Consumer
+C00653,West,Consumer
+C00654,East,Consumer
+C00655,North,Consumer
+C00656,East,Consumer
+C00657,South,Small Business
+C00658,East,Corporate
+C00659,East,Consumer
+C00660,North,Consumer
+C00661,North,Consumer
+C00662,East,Consumer
+C00663,South,Consumer
+C00664,West,Corporate
+C00665,West,Corporate
+C00666,West,Corporate
+C00667,East,Corporate
+C00668,East,Corporate
+C00669,West,Consumer
+C00670,East,Consumer
+C00671,East,Small Business
+C00672,South,Consumer
+C00673,South,Consumer
+C00674,West,Consumer
+C00675,West,Consumer
+C00676,South,Consumer
+C00677,North,Consumer
+C00678,South,Small Business
+C00679,South,Small Business
+C00680,East,Corporate
+C00681,East,Consumer
+C00682,North,Consumer
+C00683,South,Corporate
+C00684,East,Consumer
+C00685,North,Consumer
+C00686,South,Corporate
+C00687,East,Consumer
+C00688,East,Consumer
+C00689,North,Consumer
+C00690,West,Consumer
+C00691,South,Consumer
+C00692,South,Corporate
+C00693,South,Corporate
+C00694,North,Corporate
+C00695,West,Consumer
+C00696,East,Corporate
+C00697,West,Corporate
+C00698,South,Small Business
+C00699,North,Corporate
+C00700,North,Small Business
+C00701,South,Corporate
+C00702,North,Consumer
+C00703,East,Corporate
+C00704,East,Small Business
+C00705,West,Consumer
+C00706,West,Corporate
+C00707,East,Corporate
+C00708,South,Corporate
+C00709,North,Consumer
+C00710,East,Corporate
+C00711,West,Consumer
+C00712,North,Corporate
+C00713,South,Consumer
+C00714,East,Corporate
+C00715,West,Consumer
+C00716,East,Consumer
+C00717,South,Corporate
+C00718,South,Corporate
+C00719,North,Consumer
+C00720,East,Corporate
+C00721,North,Small Business
+C00722,North,Corporate
+C00723,East,Corporate
+C00724,West,Consumer
+C00725,South,Consumer
+C00726,South,Corporate
+C00727,North,Corporate
+C00728,South,Consumer
+C00729,West,Consumer
+C00730,South,Corporate
+C00731,West,Consumer
+C00732,South,Small Business
+C00733,South,Consumer
+C00734,West,Consumer
+C00735,North,Consumer
+C00736,North,Consumer
+C00737,North,Small Business
+C00738,East,Consumer
+C00739,South,Consumer
+C00740,North,Corporate
+C00741,North,Consumer
+C00742,West,Consumer
+C00743,North,Small Business
+C00744,South,Corporate
+C00745,North,Consumer
+C00746,North,Corporate
+C00747,South,Corporate
+C00748,West,Consumer
+C00749,South,Consumer
+C00750,West,Consumer
+C00751,South,Consumer
+C00752,East,Consumer
+C00753,South,Consumer
+C00754,North,Corporate
+C00755,North,Corporate
+C00756,North,Consumer
+C00757,North,Corporate
+C00758,East,Consumer
+C00759,West,Consumer
+C00760,North,Corporate
+C00761,East,Consumer
+C00762,West,Corporate
+C00763,North,Consumer
+C00764,East,Consumer
+C00765,South,Consumer
+C00766,North,Corporate
+C00767,East,Consumer
+C00768,West,Consumer
+C00769,North,Consumer
+C00770,East,Consumer
+C00771,North,Corporate
+C00772,West,Small Business
+C00773,West,Consumer
+C00774,West,Consumer
+C00775,West,Consumer
+C00776,West,Consumer
+C00777,South,Corporate
+C00778,South,Consumer
+C00779,East,Corporate
+C00780,East,Corporate
+C00781,West,Small Business
+C00782,South,Small Business
+C00783,West,Consumer
+C00784,North,Corporate
+C00785,South,Small Business
+C00786,South,Corporate
+C00787,North,Consumer
+C00788,West,Consumer
+C00789,North,Corporate
+C00790,North,Corporate
+C00791,East,Corporate
+C00792,North,Corporate
+C00793,East,Corporate
+C00794,South,Consumer
+C00795,South,Consumer
+C00796,North,Corporate
+C00797,South,Small Business
+C00798,South,Consumer
+C00799,West,Consumer
+C00800,East,Consumer
+C00801,South,Consumer
+C00802,South,Consumer
+C00803,East,Small Business
+C00804,South,Corporate
+C00805,South,Consumer
+C00806,North,Consumer
+C00807,South,Corporate
+C00808,North,Consumer
+C00809,West,Consumer
+C00810,East,Consumer
+C00811,South,Consumer
+C00812,South,Consumer
+C00813,North,Corporate
+C00814,West,Consumer
+C00815,West,Consumer
+C00816,East,Small Business
+C00817,South,Corporate
+C00818,West,Corporate
+C00819,South,Consumer
+C00820,North,Consumer
+C00821,South,Consumer
+C00822,East,Consumer
+C00823,South,Consumer
+C00824,South,Consumer
+C00825,East,Small Business
+C00826,West,Consumer
+C00827,North,Consumer
+C00828,South,Small Business
+C00829,North,Consumer
+C00830,North,Consumer
+C00831,East,Consumer
+C00832,North,Corporate
+C00833,West,Consumer
+C00834,South,Corporate
+C00835,North,Consumer
+C00836,South,Corporate
+C00837,West,Small Business
+C00838,North,Corporate
+C00839,South,Consumer
+C00840,South,Small Business
+C00841,North,Consumer
+C00842,West,Consumer
+C00843,North,Consumer
+C00844,South,Consumer
+C00845,South,Consumer
+C00846,West,Consumer
+C00847,South,Corporate
+C00848,West,Small Business
+C00849,East,Consumer
+C00850,North,Consumer
+C00851,West,Consumer
+C00852,East,Small Business
+C00853,North,Consumer
+C00854,East,Consumer
+C00855,South,Consumer
+C00856,East,Corporate
+C00857,North,Corporate
+C00858,North,Consumer
+C00859,South,Consumer
+C00860,South,Consumer
+C00861,South,Consumer
+C00862,South,Small Business
+C00863,West,Corporate
+C00864,East,Corporate
+C00865,West,Consumer
+C00866,West,Consumer
+C00867,East,Corporate
+C00868,South,Consumer
+C00869,West,Consumer
+C00870,South,Consumer
+C00871,West,Corporate
+C00872,West,Consumer
+C00873,West,Consumer
+C00874,South,Consumer
+C00875,South,Consumer
+C00876,North,Consumer
+C00877,South,Consumer
+C00878,South,Consumer
+C00879,South,Consumer
+C00880,West,Consumer
+C00881,North,Small Business
+C00882,North,Consumer
+C00883,North,Consumer
+C00884,West,Consumer
+C00885,South,Consumer
+C00886,West,Consumer
+C00887,South,Consumer
+C00888,South,Consumer
+C00889,South,Consumer
+C00890,West,Consumer
+C00891,West,Consumer
+C00892,South,Corporate
+C00893,North,Corporate
+C00894,West,Consumer
+C00895,East,Corporate
+C00896,South,Corporate
+C00897,South,Consumer
+C00898,South,Consumer
+C00899,West,Consumer
+C00900,West,Consumer
+C00901,South,Small Business
+C00902,West,Consumer
+C00903,West,Consumer
+C00904,East,Small Business
+C00905,West,Consumer
+C00906,West,Consumer
+C00907,South,Consumer
+C00908,North,Consumer
+C00909,West,Consumer
+C00910,North,Small Business
+C00911,East,Corporate
+C00912,South,Consumer
+C00913,South,Corporate
+C00914,East,Small Business
+C00915,West,Consumer
+C00916,West,Consumer
+C00917,South,Consumer
+C00918,South,Small Business
+C00919,South,Consumer
+C00920,West,Corporate
+C00921,East,Consumer
+C00922,East,Corporate
+C00923,South,Consumer
+C00924,North,Consumer
+C00925,East,Consumer
+C00926,East,Corporate
+C00927,South,Consumer
+C00928,South,Corporate
+C00929,West,Consumer
+C00930,West,Small Business
+C00931,South,Consumer
+C00932,South,Corporate
+C00933,South,Consumer
+C00934,South,Corporate
+C00935,North,Consumer
+C00936,South,Consumer
+C00937,South,Corporate
+C00938,North,Corporate
+C00939,East,Corporate
+C00940,North,Consumer
+C00941,South,Consumer
+C00942,East,Consumer
+C00943,East,Corporate
+C00944,North,Consumer
+C00945,South,Consumer
+C00946,North,Corporate
+C00947,South,Corporate
+C00948,South,Consumer
+C00949,East,Consumer
+C00950,East,Consumer
+C00951,North,Consumer
+C00952,North,Corporate
+C00953,West,Consumer
+C00954,North,Corporate
+C00955,North,Corporate
+C00956,East,Consumer
+C00957,East,Corporate
+C00958,South,Consumer
+C00959,North,Consumer
+C00960,South,Small Business
+C00961,West,Small Business
+C00962,South,Corporate
+C00963,West,Consumer
+C00964,North,Consumer
+C00965,South,Consumer
+C00966,East,Consumer
+C00967,North,Corporate
+C00968,East,Corporate
+C00969,East,Consumer
+C00970,North,Corporate
+C00971,West,Corporate
+C00972,South,Consumer
+C00973,South,Consumer
+C00974,East,Small Business
+C00975,West,Consumer
+C00976,East,Consumer
+C00977,North,Consumer
+C00978,East,Consumer
+C00979,West,Consumer
+C00980,West,Consumer
+C00981,West,Consumer
+C00982,West,Corporate
+C00983,North,Consumer
+C00984,South,Corporate
+C00985,West,Consumer
+C00986,South,Corporate
+C00987,South,Consumer
+C00988,West,Consumer
+C00989,East,Corporate
+C00990,East,Consumer
+C00991,North,Consumer
+C00992,West,Consumer
+C00993,East,Corporate
+C00994,East,Consumer
+C00995,North,Consumer
+C00996,East,Small Business
+C00997,West,Consumer
+C00998,South,Consumer
+C00999,South,Consumer
+C01000,East,Corporate
+C01001,West,Consumer
+C01002,West,Consumer
+C01003,West,Consumer
+C01004,South,Corporate
+C01005,North,Corporate
+C01006,North,Consumer
+C01007,South,Corporate
+C01008,North,Consumer
+C01009,South,Consumer
+C01010,North,Consumer
+C01011,West,Consumer
+C01012,West,Corporate
+C01013,South,Consumer
+C01014,East,Consumer
+C01015,South,Consumer
+C01016,South,Consumer
+C01017,South,Small Business
+C01018,West,Corporate
+C01019,West,Corporate
+C01020,West,Consumer
+C01021,South,Consumer
+C01022,North,Consumer
+C01023,South,Consumer
+C01024,North,Consumer
+C01025,East,Consumer
+C01026,South,Consumer
+C01027,West,Consumer
+C01028,South,Corporate
+C01029,South,Consumer
+C01030,North,Corporate
+C01031,West,Consumer
+C01032,East,Corporate
+C01033,East,Consumer
+C01034,South,Consumer
+C01035,South,Corporate
+C01036,South,Corporate
+C01037,South,Consumer
+C01038,South,Consumer
+C01039,West,Consumer
+C01040,South,Small Business
+C01041,North,Consumer
+C01042,South,Small Business
+C01043,South,Corporate
+C01044,East,Consumer
+C01045,South,Consumer
+C01046,North,Consumer
+C01047,North,Consumer
+C01048,North,Consumer
+C01049,West,Small Business
+C01050,North,Corporate
+C01051,North,Corporate
+C01052,South,Consumer
+C01053,North,Consumer
+C01054,South,Consumer
+C01055,South,Consumer
+C01056,East,Consumer
+C01057,East,Consumer
+C01058,North,Consumer
+C01059,North,Consumer
+C01060,East,Consumer
+C01061,South,Consumer
+C01062,East,Consumer
+C01063,North,Consumer
+C01064,South,Consumer
+C01065,South,Consumer
+C01066,East,Consumer
+C01067,South,Consumer
+C01068,East,Consumer
+C01069,North,Consumer
+C01070,South,Corporate
+C01071,West,Small Business
+C01072,East,Small Business
+C01073,North,Consumer
+C01074,South,Consumer
+C01075,North,Small Business
+C01076,West,Consumer
+C01077,South,Consumer
+C01078,South,Consumer
+C01079,North,Consumer
+C01080,North,Consumer
+C01081,East,Consumer
+C01082,East,Consumer
+C01083,West,Consumer
+C01084,West,Consumer
+C01085,West,Consumer
+C01086,East,Consumer
+C01087,South,Small Business
+C01088,North,Consumer
+C01089,North,Consumer
+C01090,South,Consumer
+C01091,South,Corporate
+C01092,North,Consumer
+C01093,West,Consumer
+C01094,South,Consumer
+C01095,South,Consumer
+C01096,West,Corporate
+C01097,East,Consumer
+C01098,West,Small Business
+C01099,East,Consumer
+C01100,East,Consumer
+C01101,East,Consumer
+C01102,West,Consumer
+C01103,East,Consumer
+C01104,West,Consumer
+C01105,South,Consumer
+C01106,East,Consumer
+C01107,South,Consumer
+C01108,West,Corporate
+C01109,North,Corporate
+C01110,East,Corporate
+C01111,South,Corporate
+C01112,East,Small Business
+C01113,East,Small Business
+C01114,South,Corporate
+C01115,South,Consumer
+C01116,North,Consumer
+C01117,West,Consumer
+C01118,South,Consumer
+C01119,South,Consumer
+C01120,West,Small Business
+C01121,West,Consumer
+C01122,West,Consumer
+C01123,East,Corporate
+C01124,South,Consumer
+C01125,North,Small Business
+C01126,South,Consumer
+C01127,West,Corporate
+C01128,North,Consumer
+C01129,East,Corporate
+C01130,East,Consumer
+C01131,West,Consumer
+C01132,South,Small Business
+C01133,West,Corporate
+C01134,South,Small Business
+C01135,North,Consumer
+C01136,East,Consumer
+C01137,East,Consumer
+C01138,South,Consumer
+C01139,West,Consumer
+C01140,North,Consumer
+C01141,South,Consumer
+C01142,West,Corporate
+C01143,South,Consumer
+C01144,North,Consumer
+C01145,East,Small Business
+C01146,East,Consumer
+C01147,East,Corporate
+C01148,South,Small Business
+C01149,South,Consumer
+C01150,East,Consumer
+C01151,South,Consumer
+C01152,East,Consumer
+C01153,North,Consumer
+C01154,West,Consumer
+C01155,South,Consumer
+C01156,South,Consumer
+C01157,West,Corporate
+C01158,South,Consumer
+C01159,North,Consumer
+C01160,South,Corporate
+C01161,South,Consumer
+C01162,North,Consumer
+C01163,East,Consumer
+C01164,South,Consumer
+C01165,West,Consumer
+C01166,South,Corporate
+C01167,West,Small Business
+C01168,South,Consumer
+C01169,East,Consumer
+C01170,West,Consumer
+C01171,East,Consumer
+C01172,West,Consumer
+C01173,South,Consumer
+C01174,East,Small Business
+C01175,East,Consumer
+C01176,West,Consumer
+C01177,North,Consumer
+C01178,West,Consumer
+C01179,South,Consumer
+C01180,East,Small Business
+C01181,South,Consumer
+C01182,West,Corporate
+C01183,West,Consumer
+C01184,East,Consumer
+C01185,North,Consumer
+C01186,North,Consumer
+C01187,West,Consumer
+C01188,North,Consumer
+C01189,South,Consumer
+C01190,East,Corporate
+C01191,South,Consumer
+C01192,South,Consumer
+C01193,South,Consumer
+C01194,South,Corporate
+C01195,South,Consumer
+C01196,South,Consumer
+C01197,South,Consumer
+C01198,East,Consumer
+C01199,North,Consumer
+C01200,South,Small Business
+C01201,West,Consumer
+C01202,West,Corporate
+C01203,East,Consumer
+C01204,West,Consumer
+C01205,West,Consumer
+C01206,South,Small Business
+C01207,East,Small Business
+C01208,West,Consumer
+C01209,East,Small Business
+C01210,North,Corporate
+C01211,West,Consumer
+C01212,East,Corporate
+C01213,East,Consumer
+C01214,South,Consumer
+C01215,North,Consumer
+C01216,South,Consumer
+C01217,South,Consumer
+C01218,West,Consumer
+C01219,North,Consumer
+C01220,South,Consumer
+C01221,East,Consumer
+C01222,South,Consumer
+C01223,West,Consumer
+C01224,East,Corporate
+C01225,East,Corporate
+C01226,South,Consumer
+C01227,South,Consumer
+C01228,South,Corporate
+C01229,South,Consumer
+C01230,West,Corporate
+C01231,East,Corporate
+C01232,East,Corporate
+C01233,West,Consumer
+C01234,South,Consumer
+C01235,South,Small Business
+C01236,West,Consumer
+C01237,South,Consumer
+C01238,South,Consumer
+C01239,North,Consumer
+C01240,North,Small Business
+C01241,East,Corporate
+C01242,East,Consumer
+C01243,West,Consumer
+C01244,South,Corporate
+C01245,South,Consumer
+C01246,North,Small Business
+C01247,North,Consumer
+C01248,North,Corporate
+C01249,South,Consumer
+C01250,North,Consumer
+C01251,North,Corporate
+C01252,West,Consumer
+C01253,West,Small Business
+C01254,South,Corporate
+C01255,South,Consumer
+C01256,East,Small Business
+C01257,West,Consumer
+C01258,West,Consumer
+C01259,West,Small Business
+C01260,South,Consumer
+C01261,North,Small Business
+C01262,South,Consumer
+C01263,South,Consumer
+C01264,South,Consumer
+C01265,South,Corporate
+C01266,South,Consumer
+C01267,West,Consumer
+C01268,East,Consumer
+C01269,North,Small Business
+C01270,West,Small Business
+C01271,North,Consumer
+C01272,South,Consumer
+C01273,South,Consumer
+C01274,North,Consumer
+C01275,South,Small Business
+C01276,East,Consumer
+C01277,East,Consumer
+C01278,West,Consumer
+C01279,East,Small Business
+C01280,West,Corporate
+C01281,East,Consumer
+C01282,North,Small Business
+C01283,West,Consumer
+C01284,North,Consumer
+C01285,North,Corporate
+C01286,North,Consumer
+C01287,South,Corporate
+C01288,South,Consumer
+C01289,South,Consumer
+C01290,North,Corporate
+C01291,North,Corporate
+C01292,South,Corporate
+C01293,South,Consumer
+C01294,South,Consumer
+C01295,East,Consumer
+C01296,West,Consumer
+C01297,West,Consumer
+C01298,East,Consumer
+C01299,West,Consumer
+C01300,North,Consumer
+C01301,South,Consumer
+C01302,South,Consumer
+C01303,West,Consumer
+C01304,West,Consumer
+C01305,South,Consumer
+C01306,North,Corporate
+C01307,North,Consumer
+C01308,East,Small Business
+C01309,South,Corporate
+C01310,South,Small Business
+C01311,East,Small Business
+C01312,East,Consumer
+C01313,East,Corporate
+C01314,East,Consumer
+C01315,North,Consumer
+C01316,South,Small Business
+C01317,East,Consumer
+C01318,West,Corporate
+C01319,North,Consumer
+C01320,South,Consumer
+C01321,West,Small Business
+C01322,South,Small Business
+C01323,South,Consumer
+C01324,East,Corporate
+C01325,West,Consumer
+C01326,West,Corporate
+C01327,South,Corporate
+C01328,South,Consumer
+C01329,West,Consumer
+C01330,North,Consumer
+C01331,East,Corporate
+C01332,East,Consumer
+C01333,South,Consumer
+C01334,South,Consumer
+C01335,South,Consumer
+C01336,West,Consumer
+C01337,South,Small Business
+C01338,East,Consumer
+C01339,South,Corporate
+C01340,North,Consumer
+C01341,West,Corporate
+C01342,South,Small Business
+C01343,South,Corporate
+C01344,West,Small Business
+C01345,South,Consumer
+C01346,North,Small Business
+C01347,South,Corporate
+C01348,North,Consumer
+C01349,South,Corporate
+C01350,South,Small Business
+C01351,North,Consumer
+C01352,South,Corporate
+C01353,West,Corporate
+C01354,South,Consumer
+C01355,North,Consumer
+C01356,North,Corporate
+C01357,South,Consumer
+C01358,West,Consumer
+C01359,North,Corporate
+C01360,East,Consumer
+C01361,South,Consumer
+C01362,South,Corporate
+C01363,West,Consumer
+C01364,South,Consumer
+C01365,West,Consumer
+C01366,South,Corporate
+C01367,South,Consumer
+C01368,West,Corporate
+C01369,West,Corporate
+C01370,West,Corporate
+C01371,West,Small Business
+C01372,West,Consumer
+C01373,East,Consumer
+C01374,East,Consumer
+C01375,West,Consumer
+C01376,South,Consumer
+C01377,North,Consumer
+C01378,South,Consumer
+C01379,North,Consumer
+C01380,West,Consumer
+C01381,North,Corporate
+C01382,South,Corporate
+C01383,East,Consumer
+C01384,North,Consumer
+C01385,South,Consumer
+C01386,West,Consumer
+C01387,North,Consumer
+C01388,East,Small Business
+C01389,South,Consumer
+C01390,South,Consumer
+C01391,South,Consumer
+C01392,East,Corporate
+C01393,North,Consumer
+C01394,West,Consumer
+C01395,West,Consumer
+C01396,South,Consumer
+C01397,South,Corporate
+C01398,North,Consumer
+C01399,South,Consumer
+C01400,West,Consumer
+C01401,North,Consumer
+C01402,East,Corporate
+C01403,West,Consumer
+C01404,West,Small Business
+C01405,South,Consumer
+C01406,West,Corporate
+C01407,West,Small Business
+C01408,West,Consumer
+C01409,South,Small Business
+C01410,West,Corporate
+C01411,West,Small Business
+C01412,East,Consumer
+C01413,North,Consumer
+C01414,South,Small Business
+C01415,South,Consumer
+C01416,South,Corporate
+C01417,West,Corporate
+C01418,East,Consumer
+C01419,South,Consumer
+C01420,South,Consumer
+C01421,North,Consumer
+C01422,East,Consumer
+C01423,North,Consumer
+C01424,West,Consumer
+C01425,South,Corporate
+C01426,North,Consumer
+C01427,South,Corporate
+C01428,West,Consumer
+C01429,East,Consumer
+C01430,North,Consumer
+C01431,South,Consumer
+C01432,South,Consumer
+C01433,South,Consumer
+C01434,South,Consumer
+C01435,North,Consumer
+C01436,West,Corporate
+C01437,West,Small Business
+C01438,West,Corporate
+C01439,West,Corporate
+C01440,North,Corporate
+C01441,West,Corporate
+C01442,South,Corporate
+C01443,South,Consumer
+C01444,North,Corporate
+C01445,North,Corporate
+C01446,North,Consumer
+C01447,North,Small Business
+C01448,East,Consumer
+C01449,West,Corporate
+C01450,North,Corporate
+C01451,West,Consumer
+C01452,North,Corporate
+C01453,East,Corporate
+C01454,West,Corporate
+C01455,North,Consumer
+C01456,South,Small Business
+C01457,West,Consumer
+C01458,North,Corporate
+C01459,South,Consumer
+C01460,East,Consumer
+C01461,South,Consumer
+C01462,South,Consumer
+C01463,South,Consumer
+C01464,East,Consumer
+C01465,South,Corporate
+C01466,South,Small Business
+C01467,North,Consumer
+C01468,East,Corporate
+C01469,West,Consumer
+C01470,South,Consumer
+C01471,East,Small Business
+C01472,East,Corporate
+C01473,West,Corporate
+C01474,North,Consumer
+C01475,South,Consumer
+C01476,North,Consumer
+C01477,East,Consumer
+C01478,North,Consumer
+C01479,North,Consumer
+C01480,West,Consumer
+C01481,West,Small Business
+C01482,East,Consumer
+C01483,North,Consumer
+C01484,South,Corporate
+C01485,East,Consumer
+C01486,West,Corporate
+C01487,South,Consumer
+C01488,West,Corporate
+C01489,East,Small Business
+C01490,North,Consumer
+C01491,West,Consumer
+C01492,West,Consumer
+C01493,North,Corporate
+C01494,East,Corporate
+C01495,West,Consumer
+C01496,West,Consumer
+C01497,East,Consumer
+C01498,West,Small Business
+C01499,East,Consumer
+C01500,West,Corporate
+C01501,West,Consumer
+C01502,West,Corporate
+C01503,East,Consumer
+C01504,South,Consumer
+C01505,South,Corporate
+C01506,North,Consumer
+C01507,North,Consumer
+C01508,West,Corporate
+C01509,South,Consumer
+C01510,South,Consumer
+C01511,West,Consumer
+C01512,East,Consumer
+C01513,North,Consumer
+C01514,West,Consumer
+C01515,East,Corporate
+C01516,North,Consumer
+C01517,West,Consumer
+C01518,West,Corporate
+C01519,South,Consumer
+C01520,East,Consumer
+C01521,North,Corporate
+C01522,North,Consumer
+C01523,East,Corporate
+C01524,South,Consumer
+C01525,South,Consumer
+C01526,West,Consumer
+C01527,South,Small Business
+C01528,North,Consumer
+C01529,West,Corporate
+C01530,South,Consumer
+C01531,West,Corporate
+C01532,East,Consumer
+C01533,North,Consumer
+C01534,North,Consumer
+C01535,North,Consumer
+C01536,North,Corporate
+C01537,South,Consumer
+C01538,South,Consumer
+C01539,South,Small Business
+C01540,North,Corporate
+C01541,North,Consumer
+C01542,South,Corporate
+C01543,North,Consumer
+C01544,South,Consumer
+C01545,West,Small Business
+C01546,North,Small Business
+C01547,South,Small Business
+C01548,South,Corporate
+C01549,South,Small Business
+C01550,West,Consumer
+C01551,South,Consumer
+C01552,West,Consumer
+C01553,South,Small Business
+C01554,East,Consumer
+C01555,East,Corporate
+C01556,East,Consumer
+C01557,East,Small Business
+C01558,North,Consumer
+C01559,East,Consumer
+C01560,South,Corporate
+C01561,North,Corporate
+C01562,North,Consumer
+C01563,West,Consumer
+C01564,East,Corporate
+C01565,South,Small Business
+C01566,East,Consumer
+C01567,North,Consumer
+C01568,East,Consumer
+C01569,North,Consumer
+C01570,North,Consumer
+C01571,South,Consumer
+C01572,South,Small Business
+C01573,North,Consumer
+C01574,North,Consumer
+C01575,West,Consumer
+C01576,North,Consumer
+C01577,South,Consumer
+C01578,North,Consumer
+C01579,East,Consumer
+C01580,South,Consumer
+C01581,South,Consumer
+C01582,West,Consumer
+C01583,West,Consumer
+C01584,West,Consumer
+C01585,North,Consumer
+C01586,South,Corporate
+C01587,South,Corporate
+C01588,North,Consumer
+C01589,North,Consumer
+C01590,West,Consumer
+C01591,North,Consumer
+C01592,North,Consumer
+C01593,East,Consumer
+C01594,East,Corporate
+C01595,West,Consumer
+C01596,East,Consumer
+C01597,North,Consumer
+C01598,South,Corporate
+C01599,South,Consumer
+C01600,East,Consumer
+C01601,South,Consumer
+C01602,East,Consumer
+C01603,South,Corporate
+C01604,North,Consumer
+C01605,East,Corporate
+C01606,South,Consumer
+C01607,East,Consumer
+C01608,North,Corporate
+C01609,South,Consumer
+C01610,East,Small Business
+C01611,North,Consumer
+C01612,West,Consumer
+C01613,South,Consumer
+C01614,South,Consumer
+C01615,South,Corporate
+C01616,North,Corporate
+C01617,South,Consumer
+C01618,West,Consumer
+C01619,West,Consumer
+C01620,East,Small Business
+C01621,South,Consumer
+C01622,West,Consumer
+C01623,South,Consumer
+C01624,East,Consumer
+C01625,West,Consumer
+C01626,West,Corporate
+C01627,East,Corporate
+C01628,North,Consumer
+C01629,East,Corporate
+C01630,South,Consumer
+C01631,North,Consumer
+C01632,West,Corporate
+C01633,East,Consumer
+C01634,East,Consumer
+C01635,North,Consumer
+C01636,North,Small Business
+C01637,East,Corporate
+C01638,West,Corporate
+C01639,West,Consumer
+C01640,South,Corporate
+C01641,South,Consumer
+C01642,South,Corporate
+C01643,East,Consumer
+C01644,North,Corporate
+C01645,South,Consumer
+C01646,South,Consumer
+C01647,West,Corporate
+C01648,South,Consumer
+C01649,East,Consumer
+C01650,West,Consumer
+C01651,West,Small Business
+C01652,East,Consumer
+C01653,North,Small Business
+C01654,North,Corporate
+C01655,South,Consumer
+C01656,East,Consumer
+C01657,West,Corporate
+C01658,East,Consumer
+C01659,West,Consumer
+C01660,South,Corporate
+C01661,South,Consumer
+C01662,West,Consumer
+C01663,North,Corporate
+C01664,North,Consumer
+C01665,East,Consumer
+C01666,South,Corporate
+C01667,West,Consumer
+C01668,South,Consumer
+C01669,South,Consumer
+C01670,West,Consumer
+C01671,North,Corporate
+C01672,West,Consumer
+C01673,East,Consumer
+C01674,North,Consumer
+C01675,West,Corporate
+C01676,South,Consumer
+C01677,East,Consumer
+C01678,North,Consumer
+C01679,North,Consumer
+C01680,West,Corporate
+C01681,West,Consumer
+C01682,East,Consumer
+C01683,North,Consumer
+C01684,East,Consumer
+C01685,North,Consumer
+C01686,West,Corporate
+C01687,North,Consumer
+C01688,West,Consumer
+C01689,East,Corporate
+C01690,South,Consumer
+C01691,North,Consumer
+C01692,East,Consumer
+C01693,West,Consumer
+C01694,South,Consumer
+C01695,South,Consumer
+C01696,South,Consumer
+C01697,East,Small Business
+C01698,South,Consumer
+C01699,West,Consumer
+C01700,South,Consumer
+C01701,West,Corporate
+C01702,North,Consumer
+C01703,South,Consumer
+C01704,East,Consumer
+C01705,North,Corporate
+C01706,South,Corporate
+C01707,East,Consumer
+C01708,South,Small Business
+C01709,East,Small Business
+C01710,South,Consumer
+C01711,West,Corporate
+C01712,East,Consumer
+C01713,East,Corporate
+C01714,North,Consumer
+C01715,West,Consumer
+C01716,North,Consumer
+C01717,South,Corporate
+C01718,South,Corporate
+C01719,South,Corporate
+C01720,North,Corporate
+C01721,West,Consumer
+C01722,East,Consumer
+C01723,West,Consumer
+C01724,East,Corporate
+C01725,South,Consumer
+C01726,South,Corporate
+C01727,East,Consumer
+C01728,East,Consumer
+C01729,South,Consumer
+C01730,West,Corporate
+C01731,East,Corporate
+C01732,South,Small Business
+C01733,East,Consumer
+C01734,North,Consumer
+C01735,South,Corporate
+C01736,North,Consumer
+C01737,South,Consumer
+C01738,East,Small Business
+C01739,West,Consumer
+C01740,North,Corporate
+C01741,East,Small Business
+C01742,South,Consumer
+C01743,North,Consumer
+C01744,South,Small Business
+C01745,West,Corporate
+C01746,North,Consumer
+C01747,South,Corporate
+C01748,North,Consumer
+C01749,West,Consumer
+C01750,East,Consumer
+C01751,East,Consumer
+C01752,South,Consumer
+C01753,West,Consumer
+C01754,North,Corporate
+C01755,North,Consumer
+C01756,East,Consumer
+C01757,West,Consumer
+C01758,South,Small Business
+C01759,West,Corporate
+C01760,North,Consumer
+C01761,West,Consumer
+C01762,South,Corporate
+C01763,East,Corporate
+C01764,West,Consumer
+C01765,West,Consumer
+C01766,South,Consumer
+C01767,West,Corporate
+C01768,East,Consumer
+C01769,North,Consumer
+C01770,West,Consumer
+C01771,South,Consumer
+C01772,East,Corporate
+C01773,South,Consumer
+C01774,North,Consumer
+C01775,North,Corporate
+C01776,West,Small Business
+C01777,North,Consumer
+C01778,South,Consumer
+C01779,North,Consumer
+C01780,West,Corporate
+C01781,East,Corporate
+C01782,North,Consumer
+C01783,North,Consumer
+C01784,East,Consumer
+C01785,North,Consumer
+C01786,South,Consumer
+C01787,North,Small Business
+C01788,North,Corporate
+C01789,South,Consumer
+C01790,West,Corporate
+C01791,North,Consumer
+C01792,East,Consumer
+C01793,South,Consumer
+C01794,West,Consumer
+C01795,North,Consumer
+C01796,West,Corporate
+C01797,East,Small Business
+C01798,South,Corporate
+C01799,East,Consumer
+C01800,South,Small Business
+C01801,West,Consumer
+C01802,South,Consumer
+C01803,East,Consumer
+C01804,East,Corporate
+C01805,West,Consumer
+C01806,East,Consumer
+C01807,North,Consumer
+C01808,South,Small Business
+C01809,West,Consumer
+C01810,North,Consumer
+C01811,North,Consumer
+C01812,West,Consumer
+C01813,South,Consumer
+C01814,South,Corporate
+C01815,East,Consumer
+C01816,East,Consumer
+C01817,South,Consumer
+C01818,North,Corporate
+C01819,North,Consumer
+C01820,West,Corporate
+C01821,North,Consumer
+C01822,South,Corporate
+C01823,West,Corporate
+C01824,North,Corporate
+C01825,West,Consumer
+C01826,South,Corporate
+C01827,North,Consumer
+C01828,East,Corporate
+C01829,South,Consumer
+C01830,West,Consumer
+C01831,West,Consumer
+C01832,North,Consumer
+C01833,South,Consumer
+C01834,East,Consumer
+C01835,South,Small Business
+C01836,South,Corporate
+C01837,North,Corporate
+C01838,West,Small Business
+C01839,South,Consumer
+C01840,North,Corporate
+C01841,West,Consumer
+C01842,West,Corporate
+C01843,East,Consumer
+C01844,West,Small Business
+C01845,West,Consumer
+C01846,West,Consumer
+C01847,North,Corporate
+C01848,West,Consumer
+C01849,West,Consumer
+C01850,East,Corporate
+C01851,North,Consumer
+C01852,East,Small Business
+C01853,West,Corporate
+C01854,West,Consumer
+C01855,South,Consumer
+C01856,West,Corporate
+C01857,South,Small Business
+C01858,South,Consumer
+C01859,North,Consumer
+C01860,North,Consumer
+C01861,South,Consumer
+C01862,North,Small Business
+C01863,East,Corporate
+C01864,West,Consumer
+C01865,North,Corporate
+C01866,East,Consumer
+C01867,South,Consumer
+C01868,East,Consumer
+C01869,West,Corporate
+C01870,South,Consumer
+C01871,West,Consumer
+C01872,South,Consumer
+C01873,West,Consumer
+C01874,South,Consumer
+C01875,West,Corporate
+C01876,West,Consumer
+C01877,East,Small Business
+C01878,North,Consumer
+C01879,West,Consumer
+C01880,South,Consumer
+C01881,North,Consumer
+C01882,East,Consumer
+C01883,South,Consumer
+C01884,West,Consumer
+C01885,East,Corporate
+C01886,West,Consumer
+C01887,West,Small Business
+C01888,South,Small Business
+C01889,South,Consumer
+C01890,North,Small Business
+C01891,West,Consumer
+C01892,North,Small Business
+C01893,East,Consumer
+C01894,West,Small Business
+C01895,West,Consumer
+C01896,North,Corporate
+C01897,East,Consumer
+C01898,West,Consumer
+C01899,West,Consumer
+C01900,South,Small Business

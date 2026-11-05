@@ -1,0 +1,10 @@
+-- Create each measure on FactSales in Power BI Desktop.
+Total Revenue = SUM(FactSales[sales])
+Total Cost = SUM(FactSales[cost])
+Total Profit = SUM(FactSales[profit])
+Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
+Total Orders = DISTINCTCOUNT(FactSales[order_id])
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+Units Sold = SUM(FactSales[quantity])
+Revenue PY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DimDate[date]))
+Revenue YoY % = DIVIDE([Total Revenue] - [Revenue PY], [Revenue PY])

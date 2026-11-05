@@ -1,0 +1,21 @@
+﻿product_id,product,category,unit_price
+P001,Wireless Mouse,Electronics,899
+P002,Bluetooth Speaker,Electronics,2499
+P003,USB-C Charger,Electronics,1199
+P004,Laptop Stand,Electronics,1899
+P005,Cotton T-Shirt,Fashion,799
+P006,Jeans,Fashion,1999
+P007,Running Shoes,Fashion,3299
+P008,Backpack,Fashion,1799
+P009,Skincare Set,Beauty & Personal Care,1299
+P010,Shampoo,Beauty & Personal Care,449
+P011,Sunscreen,Beauty & Personal Care,699
+P012,Electric Kettle,Home & Kitchen,1699
+P013,Lunch Box,Home & Kitchen,899
+P014,Bedsheet,Home & Kitchen,1399
+P015,Notebook Set,Stationery,399
+P016,Desk Organizer,Stationery,649
+P017,Water Bottle,Home & Kitchen,999
+P018,Smartwatch,Electronics,4399
+P019,Protein Shaker,Fitness,799
+P020,Yoga Mat,Fitness,1499
